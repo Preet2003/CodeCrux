@@ -1,0 +1,133 @@
+CodeCrux
+
+Tagline : "Visualize. Learn. Master."
+
+"Explore the core of algorithms through visuals."
+
+Sorting Algorithms:
+
+1. Bubble Sort
+2. Selection Sort
+3. Insertion Sort
+4. Merge Sort
+5. Quick Sort
+6. Heap Sort
+7. Shell Sort
+8. Radix Sort
+9. Counting Sort
+10. Bucket Sort
+11. Tim Sort (used in Python's built-in sorted() function)
+12. Gnome Sort (less common but interesting)
+
+Search Algorithms:
+
+1. Linear Search
+2. Binary Search (for sorted arrays)
+3. Jump Search
+4. Interpolation Search
+5. Exponential Search
+6. Fibonacci Search
+
+Array Operations:
+
+1. Insertion at a specific position
+2. Deletion from a specific position
+3. Update/Replace element at a given index
+4. Traverse and Display
+
+Linked List Operations:
+
+1. Singly Linked List:
+
+-> Insertion at the beginning, end, and a specific position
+-> Deletion from the beginning, end, and a specific position
+-> Traversal and Search
+
+2. Doubly Linked List:
+
+-> Same operations as above, but with bidirectional traversal
+
+3. Circular Linked List:
+
+-> Insertion and deletion in a circular structure
+
+Stack Operations:
+
+1. Push (add an element)
+2. Pop (remove an element)
+3. Peek (view the top element)
+4. Traversal (display the entire stack)
+5. Applications like balancing parentheses, postfix evaluation, etc.
+
+Queue Operations:
+
+1. Enqueue (add element)
+2. Dequeue (remove element)
+3. Front and Rear (view the elements at the front and rear)
+4. Traversal
+5. Circular Queue
+6. Priority Queue (optional if you want to explore this advanced concept)
+
+Tree Operations (Binary Trees, Binary Search Trees):
+
+1. Insertion (add node)
+2. Deletion (remove node)
+3. Search (find node)
+4. Traversal (Inorder, Preorder, Postorder)
+5. Balancing Algorithms like AVL Trees or Red-Black Trees (for an advanced challenge)
+6. Heap Operations (Min-Heap, Max-Heap insertions, and deletions)
+
+Graph Algorithms (Using Adjacency List or Matrix):
+
+1. Graph Representation (adjacency list or matrix)
+2. Breadth-First Search (BFS)
+3. Depth-First Search (DFS)
+4. Dijkstra’s Algorithm (Shortest Path)
+5. Kruskal’s Algorithm (Minimum Spanning Tree)
+6. Prim’s Algorithm (Minimum Spanning Tree)
+7. Topological Sorting (for Directed Acyclic Graphs)
+8. Bellman-Ford Algorithm (Single Source Shortest Path)
+
+Other Advanced Data Structures/Algorithms (Optional):
+
+1. Hashing (Hash Table operations, with collision handling via chaining or open addressing)
+2. Trie (for word search and prefix-related operations)
+3. Floyd-Warshall Algorithm (All-Pairs Shortest Path in a graph)
+
+
+----------------------------------------xxxxxxxxxxxxxxxxxxxxxxxxx--------------------------------------------------
+
+
+Possible Features:
+
+1. Algorithm Selection Dropdown: A dropdown to select the a particular algorithm
+
+2. Array Size Slider: A slider to adjust the total number of elements (array size) for the visualization.
+
+3. Speed Control Slider: A slider to control the speed of the visualization (from slow to fast).
+
+4. Input Mode: Option to generate random elements or input a custom array manually.
+
+5. Array Display Area: A canvas or area to display the array visually. Each element could be represented as a bar of varying height/length based on its value.
+
+6. Start/Play Button: A button to start or play the visualization of the selected algorithm.
+
+7. Pause/Resume Button: A button to pause or resume the ongoing visualization.
+
+8. Reset Button: A button to reset the array and visualization to the initial state.
+
+9. Step-By-Step Mode: A button or checkbox to allow users to view the algorithm step-by-step, with forward/backward buttons to move through the process.
+
+10. Status/Info Display: A small area to display information like the current step, comparisons, or swaps made during the algorithm execution.
+
+11. Code Display Area: A separate section or panel to display the pseudo-code or actual code of the selected algorithm being visualized.
+
+12. Progress Bar: A progress bar to show the percentage of the algorithm that has been executed.
+
+13. Sound Toggle: Option to enable or disable sound effects for various actions (optional).
+
+16. Documentation Section: This will display theoretical information about the selected algorithm, and include links to external resources like GeeksforGeeks and youtube videos for further reading.
+
+17. AI Chatbot: Embedded chatbot for suggesting algorithms, answering questions, and providing insights during the visualization process.
+
+18. Performance Metrics: Display time and space complexity for each operation.
